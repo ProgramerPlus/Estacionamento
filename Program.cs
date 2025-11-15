@@ -60,7 +60,7 @@ if(tempo>(12*60)){
 total=valor;
 
  if(vallet){
-         v=valor*1/5;
+         v=valor*1.00/5;
         total=valor+v;
  }
 
